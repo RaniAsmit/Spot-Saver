@@ -1,16 +1,62 @@
-# social
+# ![SpotSaver](.\assets\images\logo.png)
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# What problem it solves ?
 
-A few resources to get you started if this is your first Flutter project:
+In today's world, finding a parking space
+has become a major challenge for drivers.
+With the increasing number of vehicles on
+the road, parking has become a scarce
+commodity in most cities. To solve this
+problem, we have come up with an app that
+helps drivers find and provide parking
+spaces.
+Our app is designed to make parking easier
+and more convenient for everyone. It
+provides a platform where people can
+share their parking spaces with others who
+are in need of one.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Features of Spot Saver
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- ## Find a parking spot
+![hospital bed ](./assests/ambulance.png)
+
+- ## Lend a parking spot
+![hospital bed ](./assests/brain.jpeg)
+
+
+
+# How it work ?
+
+- When User open the website, then they have to choose either they want to lend or borrow the land.
+
+# ![home page](.\assets\images\Screenshot_1683397862.png)
+
+-After choosing ,You have to enter your details and login.
+# ![lend_login](.\assets\images\Screenshot_1683397867.png)
+
+-Now select the location where you have to lend the land.
+# ![gps](.\assets\images\2023-05-06.png)
+
+-After that,you can see the home page where available lands are shown
+# ![homepage](.\assets\images\Screenshot_1683397871.png)
+# ![services](./asssets/our.png)
+
+## Technologies used
+
+- Dart
+- C++
+- CMake
+- Android Studio
+- Firebase
+
+
+
+## Team :
+
+- [Manvi Jain](https://github.com/ManviJain24)
+- [Smita Tripathi](https://github.com/SmitaTripathi)
+- [Rani Asmit](https://github.com/RaniAsmit)
+- [Sampada Agarwal](https://github.com/sampadaagrawal)

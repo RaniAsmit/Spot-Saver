@@ -12,6 +12,7 @@ import 'package:get_it/get_it.dart';
 import 'package:social/pagess/welcome.dart';
 import 'package:social/sevices/firebase_service.dart';
 import 'package:social/pagess/liquid_swipe.dart';
+// import 'package:webview_flutter/webview_flutter.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();

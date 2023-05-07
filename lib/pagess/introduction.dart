@@ -23,12 +23,12 @@ class Introduction extends StatelessWidget {
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               SizedBox(
-                width: 150,
+                width: 250,
                 child: RichText(
                   text: const TextSpan(
                       text: 'Start',
                       style: TextStyle(
-                        fontSize: 30,
+                        fontSize: 55,
                         color: Color.fromARGB(255, 220, 15, 104),
                         fontWeight: FontWeight.bold,
                       ),
