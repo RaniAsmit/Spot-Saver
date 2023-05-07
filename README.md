@@ -18,13 +18,6 @@ provides a platform where people can
 share their parking spaces with others who
 are in need of one.
 
-# Features of Spot Saver
-
-- ## Find a parking spot
-![hospital bed ](./assests/ambulance.png)
-
-- ## Lend a parking spot
-![hospital bed ](./assests/brain.jpeg)
 
 
 
@@ -32,7 +25,7 @@ are in need of one.
 
 - When User open the website, then they have to choose either they want to lend or borrow the land.
 
-# ![home page](.\assets\images\Screenshot_1683397862.png)
+# ![choose](.\assets\images\Screenshot_1683397862.png)
 
 -After choosing ,You have to enter your details and login.
 # ![lend_login](.\assets\images\Screenshot_1683397867.png)
@@ -42,7 +35,7 @@ are in need of one.
 
 -After that,you can see the home page where available lands are shown
 # ![homepage](.\assets\images\Screenshot_1683397871.png)
-# ![services](./asssets/our.png)
+
 
 ## Technologies used
 
