@@ -21,21 +21,6 @@ are in need of one.
 
 
 
-# How it work ?
-
-- When User open the website, then they have to choose either they want to lend or borrow the land.
-
-# ![choose](.\assets\images\Screenshot_1683397862.png)
-
--After choosing ,You have to enter your details and login.
-# ![lend_login](.\assets\images\Screenshot_1683397867.png)
-
--Now select the location where you have to lend the land.
-# ![gps](.\assets\images\2023-05-06.png)
-
--After that,you can see the home page where available lands are shown
-# ![homepage](.\assets\images\Screenshot_1683397871.png)
-
 
 ## Technologies used
 
