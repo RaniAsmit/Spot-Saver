@@ -30,11 +30,3 @@ are in need of one.
 - Android Studio
 - Firebase
 
-
-
-## Team :
-
-- [Manvi Jain](https://github.com/ManviJain24)
-- [Smita Tripathi](https://github.com/SmitaTripathi)
-- [Rani Asmit](https://github.com/RaniAsmit)
-- [Sampada Agarwal](https://github.com/sampadaagrawal)
